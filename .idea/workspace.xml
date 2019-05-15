@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7f2c1e-9d24-4397-8391-b85b19e572b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/inheritance.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,24 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/movies/entertainment_center.py">
+        <entry file="file://$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/inheritance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#12#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/movies/media.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="300">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -53,16 +42,7 @@
         <option value="$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_9/movies/entertainment_center.py" />
         <option value="$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/movies/media.py" />
         <option value="$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/movies/entertainment_center.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Full-Stack-Nanodegre.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/inheritance.py" />
       </list>
     </option>
   </component>
@@ -75,6 +55,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,21 +74,14 @@
               <item name="1_Programming_Fundamentals_and_the_Web" type="462c0819:PsiDirectoryNode" />
               <item name="lesson_10" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Full-Stack-Nanodegre" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Full-Stack-Nanodegre" type="462c0819:PsiDirectoryNode" />
-              <item name="1_Programming_Fundamentals_and_the_Web" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson_10" type="462c0819:PsiDirectoryNode" />
-              <item name="movies" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -126,7 +100,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.entertainment_center (1)">
+  <component name="RunManager" selected="Python.inheritance">
     <configuration name="entertainment_center (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Full-Stack-Nanodegre" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,8 +145,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Full-Stack-Nanodegre" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/inheritance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.inheritance" />
         <item itemvalue="Python.entertainment_center (1)" />
         <item itemvalue="Python.entertainment_center" />
       </list>
@@ -188,26 +185,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557167690301</updated>
-      <workItem from="1557167697968" duration="4048000" />
+      <workItem from="1557167697968" duration="6217000" />
+      <workItem from="1557555176312" duration="45000" />
+      <workItem from="1557593986069" duration="18000" />
+      <workItem from="1557594075640" duration="743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4048000" />
+    <option name="totallyTimeSpent" value="7023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32876712" />
@@ -215,24 +209,29 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Full_Stack_Nanodegre$inheritance.coverage" NAME="inheritance Coverage Results" MODIFIED="1557907392391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10" />
     <SUITE FILE_PATH="coverage/Full_Stack_Nanodegre$entertainment_center__1_.coverage" NAME="entertainment_center (1) Coverage Results" MODIFIED="1557347474417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/movies" />
     <SUITE FILE_PATH="coverage/Full_Stack_Nanodegre$entertainment_center.coverage" NAME="entertainment_center Coverage Results" MODIFIED="1557217600775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_9/movies" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_9/media.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_9/media.py" />
     <entry file="file://$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_8/movie_quotes.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -280,29 +279,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/movies/fresh_tomatoes.py">
+    <entry file="file://$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/movies/fresh_tomatoes.py" />
+    <entry file="file://$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/movies/entertainment_center.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="240">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding>
-            <element signature="e#0#17#0" expanded="true" />
+            <element signature="e#0#12#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/movies/media.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="180">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/movies/entertainment_center.py">
+    <entry file="file://$PROJECT_DIR$/1_Programming_Fundamentals_and_the_Web/lesson_10/inheritance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
         </state>
       </provider>
     </entry>
