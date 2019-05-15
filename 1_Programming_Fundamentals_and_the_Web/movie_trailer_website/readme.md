@@ -10,6 +10,5 @@ This is a simple project which generates a website containing information of Mov
 
 ### License
 
-`can.viewify` is a public domain work, dedicated using
 [MIT License](https://github.com/souvikb07/Full-Stack-Nanodegre/blob/master/LICENSE). Feel free to do
 whatever you want with it.
