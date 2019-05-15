@@ -20,6 +20,6 @@ class Child(Parent):
 #par = Parent("banerjee", "black")
 #print(par.last_name)
 chil = Child("Banerjee", "Blue", 5)
-#print(chil.last_name)
-#print(chil.toys)
+print(chil.last_name)
+print(chil.toys) 
 chil.show_info()
